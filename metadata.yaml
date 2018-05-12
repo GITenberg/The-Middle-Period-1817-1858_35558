@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/37747
     wikipedia: http://en.wikipedia.org/wiki/John_Burgess_%28political_scientist%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35558#The-Middle-Period-1817-1858
 gutenberg_issued: '2011-03-12'
 gutenberg_type: Text
 identifiers:
