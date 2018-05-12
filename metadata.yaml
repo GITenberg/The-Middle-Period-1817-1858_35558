@@ -1,0 +1,29 @@
+_repo: The-Middle-Period-1817-1858_35558
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Burgess, John William
+    birthdate: 1844
+    deathdate: 1931
+    gutenberg_agent_id: '37747'
+    url: http://www.gutenberg.org/2009/agents/37747
+    wikipedia: http://en.wikipedia.org/wiki/John_Burgess_%28political_scientist%29
+description: ''
+gutenberg_issued: '2011-03-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35558'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: American History Series
+subjects:
+- !lcc 'E300'
+- !lcsh 'United States -- History -- 1815-1861'
+- !lcsh 'United States -- Politics and government -- 1815-1861'
+title: The Middle Period, 1817-1858
+url: http://www.gutenberg.org/ebooks/35558
